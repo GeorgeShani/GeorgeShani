@@ -10,7 +10,6 @@ Hello, I'm George Shanidze, Computer Science Student at Tbilisi State University
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GeorgeShani&theme=tokyonight&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeShani&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=GeorgeShani&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GeorgeShani&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
