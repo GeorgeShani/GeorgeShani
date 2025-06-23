@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm George Shanidze, Computer Science Student at Tbilisi State University.<br>Also studying Full-Stack Development using Angular and ASP.NET at IT Academy STEP Georgia<br>🌱 I’m currently learning React and Next.js, looking forward to inquiring skills in React Native.<br>🤝 I’m looking for help with iOS Development.<br>⚡ Fun fact: I started programming with C++
+Hello, I'm George Shanidze, Computer Science Student at Tbilisi State University.<br>I'm also a Full-Stack Development Intern at KooberCoders specializing in Angular and ASP.NET Core<br>🌱 I’m currently learning React and Next.js, looking forward to inquiring skills in React Native.<br>🤝 I’m looking for help with iOS Development.<br>⚡ Fun fact: I started programming with C++
 
 
 ## 🌐 Socials:
